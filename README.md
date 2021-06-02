@@ -3,9 +3,13 @@
 A simple way to do rich presence. 
 
 Required Dependencies: 
+
 *NodeJS
+
 *Npm
+
 *Windows 7 + 
+
 *Notepad ++ Or Software That Can Edit ENV files
 
 Setup: 
